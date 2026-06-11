@@ -131,4 +131,4 @@ bank-term-deposit-prediction
 
 **Deebesh Sundar**
 
-QA Automation Engineer | Machine Learning & Data Science Practitioner
+Machine Learning & Data Science Practitioner
